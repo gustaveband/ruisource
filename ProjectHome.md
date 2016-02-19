@@ -1,0 +1,2 @@
+**Repository for programs and experiments source code. These are mainly created using OpenFrameworks or Processing.
+These sources are released in hope that they might be useful for other people to study and learn. They are released under the GPL GNU license**
